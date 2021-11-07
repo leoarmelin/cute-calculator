@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Codigos-Kotlin/cute-calculator/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Codigos-Kotlin/cute-calculator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Codigos-Kotlin/cute-calculator/app/src/main/res/drawable/rect_border.xml" value="0.2703125" />
+        <entry key="..\:/Codigos-Kotlin/cute-calculator/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>
